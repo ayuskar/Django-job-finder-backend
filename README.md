@@ -3,10 +3,15 @@ This is a backend application built using Django for managing job postings and a
 
 Features:
 User Registration & Login: Users can create accounts and log in to access features.
+
 Profile Management: Users can create and update their profiles.
+
 Job Search: Users can browse and search for jobs using filters such as title, location, and salary.
+
 Job Application: Users can apply for jobs, and their applications are stored and tracked.
+
 Admin functionality: Admins can create, edit, delete jobs, and view job applications.
+
 Role-based Access Control: Only admins can manage jobs and view applications. Regular users can only search and apply for jobs.
 
 Requirements:
