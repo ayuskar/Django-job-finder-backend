@@ -44,6 +44,13 @@ Requires Admin Token.
 
 Run Tests
 
+for example for register:
+{
+  "username": "username",
+  "password": "password"
+}
+
+
 python manage.py test
 
 Tools (Postman/cURL)
